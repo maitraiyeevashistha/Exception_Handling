@@ -3,7 +3,7 @@
 ## Name: Maitraiyee Vashistha
 ## PRN: 24070123057
 ## Division: ENTC-A3
-## Title: Understanding Inheritance in C++
+## Title: Understanding Exception Handling in C++
 
 -----
 
