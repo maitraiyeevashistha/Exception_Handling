@@ -29,11 +29,11 @@ int main() {
 
 /*Output:
 
+Enter the value of number 1 & 2: 10 5
+Answer = 2
+---
 Enter the value of number 1 & 2: 5 0
 
 ERROR: Division by 0
-
-Enter the value of number 1 & 2: 10 5
-Answer = 2
 
 */
